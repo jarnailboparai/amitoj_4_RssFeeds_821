@@ -145,11 +145,11 @@
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: radial-gradient(right bottom , ellipse cover , rgb(0, 0, 0) 59% , rgb(67, 88, 230) 78% , rgb(19, 98, 230) 80%);
-background: -o-radial-gradient(right bottom , ellipse cover , rgb(0, 0, 0) 59% , rgb(67, 88, 230) 78% , rgb(19, 98, 230) 80%);
-background: -ms-radial-gradient(right bottom , ellipse cover , rgb(0, 0, 0) 59% , rgb(67, 88, 230) 78% , rgb(19, 98, 230) 80%);
-background: -moz-radial-gradient(right bottom , ellipse cover , rgb(0, 0, 0) 59% , rgb(67, 88, 230) 78% , rgb(19, 98, 230) 80%);
-background: -webkit-radial-gradient(right bottom , ellipse cover , rgb(0, 0, 0) 59% , rgb(67, 88, 230) 78% , rgb(19, 98, 230) 80%);
+	background: radial-gradient(right bottom , ellipse cover , rgb(0, 0, 0) 28% , rgb(67, 88, 230) 63% , rgb(19, 98, 230) 80%);
+background: -o-radial-gradient(right bottom , ellipse cover , rgb(0, 0, 0) 28% , rgb(67, 88, 230) 63% , rgb(19, 98, 230) 80%);
+background: -ms-radial-gradient(right bottom , ellipse cover , rgb(0, 0, 0) 28% , rgb(67, 88, 230) 63% , rgb(19, 98, 230) 80%);
+background: -moz-radial-gradient(right bottom , ellipse cover , rgb(0, 0, 0) 28% , rgb(67, 88, 230) 63% , rgb(19, 98, 230) 80%);
+background: -webkit-radial-gradient(right bottom , ellipse cover , rgb(0, 0, 0) 28% , rgb(67, 88, 230) 63% , rgb(19, 98, 230) 80%);
 }
 
 
